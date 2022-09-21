@@ -6,6 +6,10 @@
     text-indent: 10px;
 }
 
+.scene {
+    color: darkseagreen;
+}
+
 .song {
     font-style: inherit;
     font-family: Arial, Helvetica, sans-serif;
