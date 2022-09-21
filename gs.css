@@ -1,0 +1,82 @@
+.speech {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+    text-indent: 10px;
+}
+
+.song {
+    font-style: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-indent: 20px;
+}
+
+.direction {
+    font-style: unset;
+    font-size: 15px;
+    color: black;
+    background-color: lightblue;
+}
+
+.direction:hover {
+    color: chocolate;
+    background-color: lightgoldenrodyellow;
+}
+
+.YUM {
+    font-style: italic;
+    color: purple;
+    background-color: lightpink;
+}
+
+.YUM:hover {
+    text-shadow: 5px 6px 7px slategray;
+}
+
+.PEEP {
+    font-family: sans-serif;
+    color: red;
+    background-color: lightsteelblue;
+}
+
+.PEEP:hover {
+    text-shadow: 4px 5px 6px yellowgreen;
+}
+
+.PITTI {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkmagenta;
+    background-color: lightgreen;
+}
+
+.PITTI:hover {
+    text-shadow: 2px 3px 4px royalblue;
+}
+
+.NANK {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    background-color: lightskyblue;
+}
+
+.NANK:hover {
+    text-shadow: 3px 4px 5px gainsboro;
+}
+
+.Table {
+    border: solid green 7px;
+    margin: 3%;
+    background-color: black;
+    color: yellow;
+    padding: 1%;
+    border-spacing: 2px;
+    text-align: center;
+}
+
+tr,th,td {
+    border: solid 4px red;
+    margin: 1px 1px;
+}
